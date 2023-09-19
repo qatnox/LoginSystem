@@ -1,7 +1,6 @@
 test=1
 testingRegistration=12345678
 username=12345
-paul=cool
 kitkat_13=Ufkr(ker34
 test_123=123
 user121=qwe
